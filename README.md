@@ -1,2 +1,6 @@
 # AOLE_ROS
-Smart factory project
+Pilot project for Aalto University Factory of the Future in the Cloud
+
+## Dependencies
+
+OS: Ubuntu 18.04
