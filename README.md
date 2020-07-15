@@ -11,6 +11,8 @@ Installed Robot Operationg System (ROS), version - melodic (installation instruc
 
 Installed Gazebo simulator, version 9.0.0
 
+rospy library (installs automatically with ROS)
+
 ## Installation
 
 ### create a catkin workspace
