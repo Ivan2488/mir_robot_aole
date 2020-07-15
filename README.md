@@ -57,7 +57,7 @@ Different improvements can be made to optimize and develop the project in future
 
 2. Include SLAM (Simultaneous Localization And Mapping) algorithm into control node by using LiDAR sensor data 
 
-3. Add more models related to Aalto Smart Factory (e.g. Conveyors) to the environment world
+3. Add more models related to Aalto Smart Factory (e.g. Conveyors) to the environment world located at YOUR_CATKIN_WS/src/mir_robot_aole/mir_gazebo/sdf/SF/model1.world"
 
 4. Implement control of several robots
 
