@@ -25,7 +25,7 @@ sudo apt-get update -qq
 sudo apt-get install -qq -y python-rosdep
 sudo rosdep init
 rosdep update
-rosdep install --from-paths ./ -i -y --rosdistro kinetic
+rosdep install --from-paths ./ -i -y --rosdistro melodic
 
 ### build all packages in the catkin workspace
 source /opt/ros/kinetic/setup.bash
