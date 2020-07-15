@@ -1,4 +1,4 @@
-# AOLE_ROS
+# mir_robot_aole
 Pilot project for Aalto University Factory of the Future in the Cloud
 
 **Version 1.0.2**
