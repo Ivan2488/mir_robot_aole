@@ -68,4 +68,4 @@ Different improvements can be made to optimize and develop the project in future
 
 ## License & Copyright
 
-Copyright (c) 2018, DFKI GmbH
+MiR100 robot model description, parts of launch files. Copyright (c) 2018, DFKI GmbH
