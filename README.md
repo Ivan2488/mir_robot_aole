@@ -68,4 +68,6 @@ Different improvements can be made to optimize and develop the project in future
 
 ## License & Copyright
 
-MiR100 robot model description, parts of launch files. Copyright (c) 2018, DFKI GmbH
+MiR100 robot model description, parts of launch files. Copyright (c) 2018, DFKI GmbH, BSD License (https://github.com/dfki-ric/mir_robot)
+
+The rest of this project is licensed under Apache 2 license
