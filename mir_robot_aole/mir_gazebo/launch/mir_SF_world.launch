@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<launch>
+  <arg name="gui" default="true" />
+
+  <include file="$(find mir_gazebo)/launch/mir_empty_world.launch">
+    <arg name="gui" value="$(arg gui)" />
+  </include>
+
+ <!-- <include file="$(find mir_gazebo)/launch/includes/spawn_maze.launch.xml" /> -->
+  <!-- <arg name="world_name" value="/home/amr/catkin_ws_3/src/mir_robot/mir_gazebo/sdf/SF/model.sdf" />   -->
+</launch>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<launch>
+  <!--  <node name="spawn_SF" pkg="gazebo_ros" type="spawn_model" args="-sdf
+      -file /home/amr/catkin_ws_3/src/mir_robot/mir_gazebo/sdf/maze/model.sdf -model SF" output="screen" /> -->
+
+     <!-- We resume the logic in empty_world.launch, changing only the name of the world to be launched -->
+  <!--  <include file="$(find gazebo_ros)/launch/empty_world.launch"> -->
+
+ <!--  <arg name="world_name" value="/home/amr/catkin_ws_3/src/mir_robot/mir_gazebo/sdf/SF/model.sdf"/>    -->
+  
+</launch>
