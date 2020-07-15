@@ -17,7 +17,7 @@ Installed Gazebo simulator, version 9.0.0
 mkdir -p ~/catkin_ws/src
 cd ~/catkin_ws/src/
 
-### clone mir_robot into the catkin workspace
+### clone mir_robot_aole project into the catkin workspace
 git clone -b melodic https://github.com/Ivan2488/mir_robot_aole.git
 
 ### use rosdep to install all dependencies (including ROS itself)
